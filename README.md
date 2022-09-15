@@ -29,6 +29,6 @@ The following are the results of the audit:
 
 ![candidates_votes](Resources/candidates_votes.png)
 
-- Finally, the below shows that Diana DeGette won the election with the corresponding vote count and winning percentage.
+- Finally, the below shows that Diana DeGette won the election with the corresponding vote count and winning percentage:
 
 ![candidate_winner](Resources/candidate_winner.png)
