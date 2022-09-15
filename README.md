@@ -32,3 +32,13 @@ The following are the results of the audit:
 - Finally, the below shows that Diana DeGette won the election with the corresponding vote count and winning percentage:
 
 ![candidate_winner](Resources/candidate_winner.png)
+
+## Election-Audit Summary
+
+This script could potentially be used for future elections as well.
+
+Especially if the same type of information is wanting to be counted (county and candidate information listed directly from the individual ballots), the information could be inputted in the same format on any excel sheet and then ran using the code. If the excel sheet used was saved under a different name, the code would only have to make sure and reflect the correct name of the spreadsheet in the file_to_load line. 
+
+Otherwise, given the same type of information inputted in the columns, the code would work the same.
+
+The code could also be modified to provide additional information to help plan future elections. For example, if the polling sites are also included for each vote cast in the same spreadsheet, the county variables and calculations could be copied and then replaced with variables to record and calculate the number of votes cast and calculate percentages for each polling place. This could help make sure that election workers are properly dispursed.
