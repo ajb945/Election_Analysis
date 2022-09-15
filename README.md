@@ -13,7 +13,7 @@ This was in turn printed out to a text file with a readout of results.
 
 The following are the results of the audit:
 
-- There were 369,711 total votes cast in the election
+- There were 369,711 total votes cast in the election:
 
 ![total_votes](Resources/total_votes.png)
 
@@ -21,11 +21,11 @@ The following are the results of the audit:
 
 ![county_votes](Resources/county_votes.png)
 
-- The results show that Denver County was the county with the largest number of votes.
+- The results show that Denver County was the county with the largest number of votes:
 
 ![county_largest_number](Resources/county_largest_number.png)
 
-- The following shows a breakdown of the number of votes and the percentage of the total votes each candidate recieved.
+- The following shows a breakdown of the number of votes and the percentage of the total votes each candidate recieved:
 
 ![candidates_votes](Resources/candidates_votes.png)
 
